@@ -25,6 +25,7 @@ public class Booking {
     private String bookingType;
     private int person;
     private String Fikri;
+    private int saya;
     //private int roomsFare;
     
     
