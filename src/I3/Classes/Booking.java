@@ -25,7 +25,11 @@ public class Booking {
     private String bookingType;
     private int person;
     private String Fikri;
+<<<<<<< HEAD
     private int i;
+=======
+    private int saya;
+>>>>>>> try
     //private int roomsFare;
     
     
