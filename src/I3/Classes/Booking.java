@@ -24,7 +24,11 @@ public class Booking {
     private long checkOutDateTime;
     private String bookingType;
     private int person;
+<<<<<<< HEAD
     private int age;
+=======
+    private String name;
+>>>>>>> aniq
     //private int roomsFare;
     
     
